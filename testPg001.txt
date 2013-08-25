@@ -1,0 +1,10 @@
+Database User Name .............. : test
+Database User Password .......... : test
+Database Name ................... : testdb
+Number of Insert Iterations ..... : 2200
+Use AutoInc for Inserts (y/n) ... : n
+Number of Update Iterations ..... : 2200
+Select sample-size for updates .. : 200
+Clear Table? (y/n) .............. : n
+Save selections to file? (y/n) .. : y
+Nr. of instances you will run ... : 1

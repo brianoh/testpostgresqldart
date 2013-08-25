@@ -1,0 +1,6 @@
+name: testpg001
+version: 0.2.1
+author: Brian OHara
+description: Test postgresql
+dependencies:
+  postgresql: '>= 0.2.8'
